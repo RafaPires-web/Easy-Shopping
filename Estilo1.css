@@ -121,12 +121,12 @@ header {
         line-height: 52px;
         font-size: 36px;
         width: auto;
-        margin: 58px 50px 0 50px;
+        margin: 58px 50px 0px 30px;
         text-align: center;
     }
 
     p {
-        margin: 15px 40px;
+        margin: 10px 40px;
         width: auto;
         text-align: center;
         font-size: 14px;
